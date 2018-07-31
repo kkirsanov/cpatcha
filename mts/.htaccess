@@ -1,0 +1,3 @@
+<Files *.py>
+Deny from all 
+</Files>
